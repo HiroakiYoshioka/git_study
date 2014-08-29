@@ -1,0 +1,127 @@
+@CHARSET "UTF-8";
+
+<!--
+a:link {
+	color: #ffffff;
+}
+
+a:visited {
+	color: #ffffff;
+}
+
+a:hover {
+	color: #ffffff;
+}
+
+a:active {
+	color: #ffffff;
+}
+
+body {
+	color: #ffffff;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+
+table.regList {
+	border: 1px solid #000000;
+	border-collapse: collapse;
+	margin: 0 auto;
+	clear: both;
+}
+
+.regList td {
+	border: 1px solid #000000;
+}
+
+.regList th {
+	border: 1px solid #000000;
+}
+
+#errMsg {
+	color: #ff0000;
+}
+
+#logout {
+	width: 325px;
+	float: left;
+	text-align: center;
+}
+
+#login {
+	width: 325px;
+	float: left;
+	text-align: center;
+}
+
+#menu {
+	width: 325px;
+	float: left;
+	text-align: right;
+}
+
+#back {
+	width: 325px;
+	float: right;
+	text-align: center;
+}
+
+#header {
+	width: 650px;
+	height: 50px;
+	text-align: left;
+	background-color: #5b9bd5;
+}
+
+#main {
+	width: 650px;
+	height: 400px;
+	text-align: center;
+	background-color: #a9d18e;
+}
+
+#footerLeft {
+	width: 325px;
+	height: 50px;
+	float: left;
+	background-color: #5b9bd5;
+}
+
+#footerRight {
+	width: 325px;
+	height: 50px;
+	float: left;
+	background-color: #5b9bd5;
+}
+
+div.tabbox {
+	margin: 0px;
+	padding: 0px;
+	width: 400px;
+}
+
+p.tabs {
+	margin: 0px;
+	padding: 0px;
+}
+
+p.tabs a {
+	color: black;
+	display: block;
+	width: 3em;
+	float: left;
+	position:relative;
+	left:37%;
+	padding: 3px;
+	text-align: center;
+	background-color:#7f7f7f;
+	margin: 0px;
+	border: 1px solid black;
+	font-size: x-small;
+}
+
+p.tabs a.select {
+	background-color:white;
+}
+-->
